@@ -111,7 +111,7 @@ gatk-register ~/bin/miniconda3/bin/$gatk_file --noversioncheck
 # PART 3:
 #
 # Create env for packages requiring python 2.7
-conda create --name -y bioinfo python=2.7
+conda create -y -n bioinfo python=2.7
 # Activate environment to install packages.
 source activate bioinfo
 # Install packages.
