@@ -1,6 +1,6 @@
 ## Biostar Handbook Issues
 
-Issue tracker for the Biostar Handbook
+This is the issue tracker for the [Biostar Handbook][book]
 
 Consult the existing [open issue list][issues]. 
 
@@ -13,5 +13,5 @@ To contribute content please fork this repository, add your change then open [a 
 [issues]: https://github.com/biostars/biostar-handbook-issues/issues
 [new]: https://github.com/biostars/biostar-handbook-issues/issues/new
 [closed]: https://github.com/biostars/biostar-handbook-issues/issues?q=is%3Aissue+is%3Aclosed
-
+[book]: https://www.biostarhandbook.com/
 [pull]: https://help.github.com/articles/about-pull-requests/
