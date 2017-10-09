@@ -2,9 +2,9 @@
 
 Issue tracker for the Biostar Handbook
 
-Consult the existing [issue list][issues]. 
+Consult the existing [open issue list][issues]. 
 
-Note that by default only open (unsolved issues are shown). Read up on the [closed issues][closed] as well.
+Then read up on the [closed issues][closed] as well.
 
 Please [start a new issue][new] to report errors or provide feedback regarding the book.
 
