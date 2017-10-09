@@ -1,4 +1,4 @@
-# Biostar Handbook Issues
+## Biostar Handbook Issues
 
 Issue tracker for the Biostar Handbook
 
