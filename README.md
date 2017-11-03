@@ -4,7 +4,7 @@ This place is to track issue regarding **the content** of the [Biostar Handbook]
 
 ---
 
-**NOTE**: If you have a problem with your order, payment or account send en email to: `contact@biostarhandbook.com`
+**NOTE**: If you have a problem with your order, payment or account send an email to: `contact@biostarhandbook.com`
 
 ---
 
