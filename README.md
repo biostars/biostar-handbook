@@ -1,10 +1,15 @@
 ## Biostar Handbook Issues
 
-This is the issue tracker for the [Biostar Handbook][book]
+This place is to track issue regarding **the content** of the [Biostar Handbook][book].
 
-Consult the existing [open issue list][issues]. 
+If you have a problem with your order, payment or account send en email to: `contact@biostarhandbook.com`
 
-Then read up on the [closed issues][closed] as well.
+---
+
+How to report problems:
+
+1. Consult the existing [open issue list][issues]. 
+2. Then read up on the [closed issues][closed] as well.
 
 Please [start a new issue][new] to report errors or provide feedback regarding the book.
 
