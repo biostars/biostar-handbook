@@ -1,6 +1,6 @@
 ## Biostar Handbook Issues
 
-This place is to track issue regarding **the content** of the [Biostar Handbook][book].
+This website is meant to solve issues regarding **the content** of the [Biostar Handbook][book].
 
 ---
 
