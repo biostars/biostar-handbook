@@ -1,14 +1,12 @@
-## Biostar Handbook Issues
+# Biostar Handbook Issues
 
 This website is meant to solve issues regarding **the content** of the [Biostar Handbook][book].
 
----
+## Account problems?
 
 **NOTE**: If you have a problem with your order, payment or account send an email to: `contact@biostarhandbook.com`
 
----
-
-## How to report problems
+## How to report issues
 
 1. Consult the existing [open issue list][issues]. 
 2. Then read up on the [closed issues][closed] as well.
