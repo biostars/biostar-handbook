@@ -8,8 +8,10 @@ This website is meant to solve issues regarding **the content** of the [Biostar 
 
 ## How do I report issues?
 
+First we recommend that you check the existing reports:
+
 1. Consult the existing [open issue list][issues]. 
-2. Then read up on the [closed issues][closed] as well.
+2. Read up on the [solved and closed issues][closed] as well.
 
 Please [start a new issue][new] to report errors or provide feedback regarding the book.
 
