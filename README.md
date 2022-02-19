@@ -1,4 +1,4 @@
-# Biostar Handbook Issues
+## Biostar Handbook Public Forum
 
 This website is meant to solve issues regarding **the content** of the [Biostar Handbook][book].
 
@@ -8,16 +8,13 @@ If you have a problem with your order, payment or account send an email to:
 
 * `contact@biostarhandbook.com`
 
-## How do I report problems with the content?
+## Where do I post questions?
 
-First we recommend that you check the existing reports:
+As of Feburary 2022 we have switched to using the GitHub discussion forum for book related questions:
 
-1. Consult the existing [open issue list][issues]. 
-2. Read up on the [solved and closed issues][closed] as well.
+* [Biostar Handbook Discussions][discuss]
 
-If none of the issues cover your problem then [open a new issue][new] to report errors or provide feedback regarding the book.
-
-To contribute content please fork this repository, add your change then open [a pull request][pull].
+[discuss]: https://github.com/biostars/biostar-handbook-issues/discussions
 
 [issues]: https://github.com/biostars/biostar-handbook-issues/issues
 [new]: https://github.com/biostars/biostar-handbook-issues/issues/new
