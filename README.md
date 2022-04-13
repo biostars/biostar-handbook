@@ -3,15 +3,13 @@
 This website is meant to solve issues regarding **the content** of the [Biostar Handbook][book].
 
 
-## Account related problems?
+### Account related problems?
 
 If you have a problem with your order, payment or account send an email to: 
 
 * `contact@biostarhandbook.com`
 
-## Where do I post questions?
-
-## Where do I post questions?
+### Where do I post questions?
 
 To looks for solutions or to ask a new question visit:
 
