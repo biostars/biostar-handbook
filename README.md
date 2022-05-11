@@ -1,8 +1,9 @@
-## Biostar Handbook Discussions
+## Biostar Handbook
 
-This website is meant to solve issues regarding **the content** of the [Biostar Handbook][book].
+This website is meant to support the [Biostar Handbook][book].
 
-
+* Discussions Forum: <https://github.com/biostars/biostar-handbook/discussions>
+ 
 ### Account related problems?
 
 If you have a problem with your order, payment or account send an email to: 
